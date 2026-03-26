@@ -1,5 +1,5 @@
 Here’s a **professional, resume-ready README.md** you can directly paste into your GitHub project 👇
-(It’s written to look strong for recruiters + frontend roles.)
+
 
 ---
 
