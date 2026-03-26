@@ -1,4 +1,3 @@
-Here’s a **professional, resume-ready README.md** you can directly paste into your GitHub project 👇
 
 
 ---
