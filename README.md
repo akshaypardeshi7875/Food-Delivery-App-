@@ -84,7 +84,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Akshay Pardeshi**
-Frontend Developer | React Enthusiast
+Full-stack Developer |Frontend Developer | React Enthusiast
 
 GitHub: [https://github.com/akshaypardeshi7875](https://github.com/akshaypardeshi7875)
 
